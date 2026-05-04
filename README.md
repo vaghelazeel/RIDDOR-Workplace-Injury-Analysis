@@ -46,15 +46,14 @@ a reduction of 79% over 39 years. The sharp spike in 1988 corresponds to
 the Piper Alpha oil platform disaster, which killed 167 workers in a single
 incident and remains the deadliest industrial accident in UK history. Since
 2008 the figures have remained consistently below the long-term average of
-181 per year, suggesting that regulatory and enforcement improvements made
-from the late 1990s onwards have produced lasting structural change rather
-than short-term fluctuation.
+181 per year, suggesting that regulatory and enforcement improvements have
+produced lasting structural change rather than short-term fluctuation.
 
 ---
 
 ### Figure 2 — Non-Fatal Injuries 1986 to 2011/12
 
-![fig2](fig2_nonfatal_trend.png)
+![fig2](nonfatal_trend.png)
 
 Non-fatal injuries to employees started at 179,000 in 1986 and declined
 to 111,000 by 2011/12. The rate of decline was faster in the early 1990s
@@ -112,7 +111,7 @@ colleagues.
 
 ### Figure 6 — Injuries by Gender 2024/25
 
-![fig6](Gender%20pie%20chartGender%20Gender%20pie%20chart.png)
+![fig6](injuries_by_gender.png)
 
 Male workers account for 60.6% of reported non-fatal injuries and female
 workers 39.4%. This split is not primarily a behavioural difference but
