@@ -1,8 +1,10 @@
 # RIDDOR Workplace Injury Analysis — HSE Great Britain
 
 **Author:** Zeel Vaghela  
-**Affiliation:** MSc Bioinformatics (Distinction), Teesside University, UK | NEBOSH NGC (in progress)  
-**Data:** Health and Safety Executive (HSE), UK Government  
+**Education:** MSc Bioinformatics (Distinction), Teesside University, UK  
+**Certification:** NEBOSH National General Certificate (in progress)  
+**Current Role:** ICQA Analyst, Amazon Fulfilment Centre, Hull, UK  
+**Data:** Health and Safety Executive (HSE), UK Government Official Statistics  
 **Tools:** Python 3, Google Colab  
 
 ---
