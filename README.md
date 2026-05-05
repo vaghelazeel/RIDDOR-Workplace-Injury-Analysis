@@ -1,4 +1,4 @@
-# RIDDOR Workplace Injury Analysis — HSE Great Britain
+# RIDDOR Workplace Injury Analysis - HSE Great Britain
 
 **Author:** Zeel Vaghela  
 **Education:** MSc Bioinformatics (Distinction), Teesside University, UK  
